@@ -1,8 +1,8 @@
 {
   "version": 3,
-  "sources": [],
-  "sourceRoot": "/var/folders/bw/35h75b890qn2rsntx2hdy0jc0000gn/T/tmp-25291-fh2SVGxLDCMi",
-  "sourcesContent": [],
-  "mappings": "",
+  "sources": ["../../../../../../Users/farrukhkhan/Documents/Farrukh/HTML/Three/netlify/addUser/api/adduser.js"],
+  "sourceRoot": "/var/folders/bw/35h75b890qn2rsntx2hdy0jc0000gn/T/tmp-26567-qzuZvvDbCV1P",
+  "sourcesContent": ["export async function handler (event, context) {\n\n    return {\n        statusCode: 200,\n        body: JSON.stringify({ userid: 25 }),\n    };\n}\n"],
+  "mappings": ";;;;;;;;;AAAA;AAAA;AAAA;AAAA,uBAA+B,OAAO,SAAS;AAE3C,SAAO;AAAA,IACH,YAAY;AAAA,IACZ,MAAM,KAAK,UAAU,EAAE,QAAQ;AAAA;AAAA;",
   "names": []
 }
